@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279852881436",
+    "project_id": "apptransfert-b2811",
+    "storage_bucket": "apptransfert-b2811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279852881436:android:3c7e9c3352fd5e5ef9f1d9",
+        "android_client_info": {
+          "package_name": "com.example.app_transaction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP2MZSGexpOYKR6SH7Ia5I_vfDvJPZ15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
